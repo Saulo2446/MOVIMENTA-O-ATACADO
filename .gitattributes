@@ -1,1 +1,2 @@
 MOVIMENTACAO_ATACADO/* filter=lfs diff=lfs merge=lfs -text
+EXE/* filter=lfs diff=lfs merge=lfs -text
